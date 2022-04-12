@@ -1,6 +1,6 @@
-<<<MYSQL>>>
-<<<Python>>>
-<<<GIT>>>
+<=MYSQL=>
+<=Python=>
+<=GIT=>
 
 <!---
 BoolmanO/BoolmanO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
