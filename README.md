@@ -4,4 +4,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoolmanO&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BoolmanO&theme=tokyonight&utcOffset=8)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BoolmanO&theme=highcontrast&hide_border=true&border_radius=5.6&mode=weekly&background=100323&stroke=831798&fire=4E22DD&currStreakNum=9615CE&ring=4E1896&sideNums=BC17DD&currStreakLabel=AF03FF)](https://git.io/streak-stats)
-![](https://cdn.discordapp.com/emojis/962730564840996964.png?size=48*4)
