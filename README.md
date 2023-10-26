@@ -1,4 +1,1 @@
-![](https://cdn.discordapp.com/emojis/962730564840996964.png?size=48*4)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoolmanO&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoolmanO&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BoolmanO&theme=tokyonight&utcOffset=8)
+![](https://wakatime.com/share/@boolmano/9ecc4e1b-fdcc-4046-b5fe-be9226fdea51.svg)
